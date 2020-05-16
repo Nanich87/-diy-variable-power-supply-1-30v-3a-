@@ -38,4 +38,12 @@ https://www.aliexpress.com/item/32760134409.html
 
 ## DC Power Jack Female 5.5x2.1
 
-![DC Power Jack Female 5.5x2.1](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/dc-power-jack-female-5.5x2.1.jpg)
+![DC Power Jack Female 5.5x2.1](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/dc-power-jack-female-5.5x2.1.jpg)Specifications:
+
+### Specifications
+
+- Contact rating: MAX 3A 12V DC
+- Connector size: 2.1mm x 5.5mm x 9mm
+- Product size: 10mm x 10mm x18mm
+- Max panel depth: 3mm
+
