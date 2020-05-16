@@ -12,7 +12,9 @@ v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 - Conversion efficiency: Boost, 88%-91%; Buck,87%-90%.
 - Short circuit protection: Yes
 - Working frequency: 180KHz
-- Size: 48*23*21mm 
+- Size: 48*23*21mm
+
+https://www.aliexpress.com/item/4000279482707.html
 
 ## DSN-VC288 Specifications
 
@@ -23,3 +25,5 @@ v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 - Current error: ±1%
 - Working current: < 20mA
 - Working temperature: -10 ° C ~ 65 ° C
+
+https://www.aliexpress.com/item/32760134409.html
