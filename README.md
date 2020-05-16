@@ -36,7 +36,7 @@ https://www.aliexpress.com/item/4000279482707.html
 
 https://www.aliexpress.com/item/32760134409.html
 
-## DC Power Jack Female 5.5x2.1
+## DC Power Jack (2x)
 
 ![DC Power Jack Female 5.5x2.1](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/dc-power-jack-female.jpg)
 
