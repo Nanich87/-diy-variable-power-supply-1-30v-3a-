@@ -18,6 +18,8 @@ v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 
 https://www.aliexpress.com/item/4000279482707.html
 
+![DSN-VC288](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/DSN-VC288.jpg)
+
 ## DSN-VC288 Specifications
 
 - Voltage measurement range: 0.0V-100V
