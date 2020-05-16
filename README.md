@@ -22,7 +22,7 @@ https://www.aliexpress.com/item/4000279482707.html
 
 ## DSN-VC288
 
-![DSN-VC288](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/DSN-VC288.jpg)
+![DSN-VC288](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/dsn-vc288.jpg)
 
 ### Specifications
 
@@ -35,3 +35,7 @@ https://www.aliexpress.com/item/4000279482707.html
 - Working temperature: -10 ° C ~ 65 ° C
 
 https://www.aliexpress.com/item/32760134409.html
+
+## DC Power Jack Female 5.5x2.1
+
+![DC Power Jack Female 5.5x2.1](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/dc-power-jack-female-5.5x2.1.jpg)
