@@ -47,3 +47,7 @@ https://www.aliexpress.com/item/32760134409.html
 - Product size: 10mm x 10mm x18mm
 - Max panel depth: 3mm
 
+## Micro USB Breakout Board
+
+![Micro USB To DIP](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/micro-usb-to-dip.jpg)
+
