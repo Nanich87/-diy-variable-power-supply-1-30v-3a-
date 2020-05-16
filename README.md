@@ -2,9 +2,11 @@
 
 v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 
+## AT30
+
 ![AT30](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/at30.jpg)
 
-## AT30 Specifications
+### Specifications
 
 - Input voltage: 4-30V
 - Output voltage: 0.5-30V
@@ -18,9 +20,11 @@ v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 
 https://www.aliexpress.com/item/4000279482707.html
 
+## DSN-VC288
+
 ![DSN-VC288](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/DSN-VC288.jpg)
 
-## DSN-VC288 Specifications
+### Specifications
 
 - Voltage measurement range: 0.0V-100V
 - Current test range: 0-999mA, 0-10A
