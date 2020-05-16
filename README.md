@@ -51,3 +51,5 @@ https://www.aliexpress.com/item/32760134409.html
 
 ![Micro USB To DIP](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/micro-usb-to-dip.jpg)
 
+## M3 Screws (6x)
+
