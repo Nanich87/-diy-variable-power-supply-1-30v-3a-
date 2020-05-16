@@ -13,3 +13,13 @@ v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 - Short circuit protection: Yes
 - Working frequency: 180KHz
 - Size: 48*23*21mm 
+
+## DSN-VC288 Specifications
+
+- Voltage measurement range: 0.0V-100V
+- Current test range: 0-999mA, 0-10A
+- Power supply range: DC4-30.0V
+- Voltage error: ±0.1%
+- Current error: ±1%
+- Working current: < 20mA
+- Working temperature: -10 ° C ~ 65 ° C
