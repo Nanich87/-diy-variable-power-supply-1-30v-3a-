@@ -1,1 +1,1 @@
-# -diy-variable-power-supply-1-30v-3a-
+# [DIY] Variable Power Supply 0.5-30V 3A
