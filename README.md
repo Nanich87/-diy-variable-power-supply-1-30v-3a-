@@ -2,6 +2,8 @@
 
 v1 https://github.com/Nanich87/diy-variable-power-supply-5-28v-2a
 
+![AT30](https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a/blob/master/images/at30.jpg)
+
 ## AT30 Specifications
 
 - Input voltage: 4-30V
